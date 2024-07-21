@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="34px" viewBox="0 0 39 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons8-sell-stock</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kuai2.0Site-Copy" transform="translate(-700.000000, -3443.000000)" fill="#B7B1D5" fill-rule="nonzero">
+            <g id="FAQ" transform="translate(189.500000, 3282.000000)">
+                <g id="icons8-sell-stock" transform="translate(510.500000, 161.000000)">
+                    <path d="M37.5725,6.37875 C36.91275,5.66125 35.97475,5.25 34.99825,5.25 L7.48125,5.25 L7.28875,3.79575 C7,1.63275 5.13625,0 2.95225,0 L1.75,0 C0.78225,0 0,0.78225 0,1.75 C0,2.71775 0.78225,3.5 1.75,3.5 L2.95225,3.5 C3.38975,3.5 3.7625,3.82725 3.82025,4.2595 L6.51,24.4335 C6.9125,27.4645 9.52175,29.75 12.579,29.75 L31.12375,29.75 C34.28425,29.75 36.96525,27.28425 37.22775,24.13425 L38.48775,9.03875 C38.5665,8.06575 38.234,7.09625 37.5725,6.37875 Z" id="Path" opacity="0.35"></path>
+                    <circle id="Oval" cx="14" cy="29.75" r="3.5"></circle>
+                    <circle id="Oval" cx="29.75" cy="29.75" r="3.5"></circle>
+                    <path d="M26.25,10.5 C25.9245,10.5 17.8255,10.5 17.5,10.5 C16.534,10.5 15.75,11.284 15.75,12.25 C15.75,13.216 16.534,14 17.5,14 C17.8255,14 25.9245,14 26.25,14 C27.216,14 28,13.216 28,12.25 C28,11.284 27.216,10.5 26.25,10.5 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

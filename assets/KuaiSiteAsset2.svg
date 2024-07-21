@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="632px" height="437px" viewBox="0 0 632 437" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <linearGradient x1="100%" y1="30.2964218%" x2="0%" y2="69.7035782%" id="linearGradient-1">
+            <stop stop-color="#FF5D86" offset="0%"></stop>
+            <stop stop-color="#775DFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="418" height="262.4" rx="14"></rect>
+        <filter x="-21.7%" y="-27.2%" width="143.3%" height="169.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="19" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="27" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0238244846   0 0 0 0 0.0203106266   0 0 0 0 0.0538219507  0 0 0 0.357143589 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="418" height="262.4" rx="14"></rect>
+        <filter x="-21.7%" y="-27.2%" width="143.3%" height="169.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="19" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="27" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0238244846   0 0 0 0 0.0203106266   0 0 0 0 0.0538219507  0 0 0 0.357143589 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-89.5%" y="-71.3%" width="279.0%" height="242.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="19" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="27" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.0196078431   0 0 0 0 0.0549019608  0 0 0 0.356687746 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kuai2.0Site-Copy" transform="translate(-136.000000, -1491.000000)">
+            <g id="Features" transform="translate(189.500000, 996.000000)">
+                <g id="Group-3" transform="translate(0.500000, 530.000000)">
+                    <g id="Group-2">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        </g>
+                        <g mask="url(#mask-3)">
+                            <g transform="translate(-55.000000, 60.000000)">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <g id="Mask" stroke="none" fill="none" fill-rule="nonzero">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-5"></use>
+                                    <use fill="#25203E" xlink:href="#path-5"></use>
+                                </g>
+                                <g id="Group-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-6)">
+                                    <g transform="translate(-185.000000, 27.000000)">
+                                        <rect id="Rectangle-Copy-10" stroke="none" fill="#775DFF" fill-rule="evenodd" x="464" y="86" width="104.5" height="20.5" rx="2.5"></rect>
+                                        <text id="Add-Script" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="6" font-weight="500">
+                                            <tspan x="501" y="98.5" fill="#FFFFFF">Add Script</tspan>
+                                        </text>
+                                        <rect id="Rectangle-Copy-3" stroke="none" fill-opacity="0.401775227" fill="#38325D" fill-rule="evenodd" x="0" y="137.5" width="568.5" height="34" rx="3"></rect>
+                                        <rect id="Rectangle-Copy-4" stroke="none" fill-opacity="0.401775227" fill="#38325D" fill-rule="evenodd" x="0" y="16.5" width="568.5" height="60.5" rx="3"></rect>
+                                        <rect id="Rectangle-Copy-7" stroke="#9691B3" stroke-width="0.75" fill-opacity="0.401775227" fill="#867FAC" fill-rule="evenodd" x="0.375" y="178.875" width="567.75" height="33.25" rx="3"></rect>
+                                        <g id="arrow-down-2-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(242.000000, 194.000000)" stroke-linecap="round" stroke-linejoin="round">
+                                            <polyline id="Path" stroke="#FFFFFF" stroke-width="0.75" points="5.25 0 2.625 2.625 0 0"></polyline>
+                                        </g>
+                                        <rect id="Rectangle-Copy-8" stroke="none" fill-opacity="0.401775227" fill="#38325D" fill-rule="evenodd" x="0" y="219.5" width="568.5" height="34" rx="3"></rect>
+                                        <g id="icons8-trash-can-15-copy-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(547.500000, 150.000000)">
+                                            <path d="M6.5625,7.875 L6.5625,2.1875 L0.4375,2.1875 L0.4375,7.875 C0.4375,8.3584375 0.8290625,8.75 1.3125,8.75 L5.6875,8.75 C6.1709375,8.75 6.5625,8.3584375 6.5625,7.875 Z M0.4375,0.4375 L6.5625,0.4375 C6.804,0.4375 7,0.6335 7,0.875 L7,0.875 C7,1.1165 6.804,1.3125 6.5625,1.3125 L0.4375,1.3125 C0.196,1.3125 0,1.1165 0,0.875 L0,0.875 C0,0.6335 0.196,0.4375 0.4375,0.4375 Z" id="Shape" fill="#FF5D86" fill-rule="nonzero"></path>
+                                            <polygon id="Path" fill="#FF5D86" fill-rule="nonzero" points="5.6875 1.3125 4.375 0 2.625 0 1.3125 1.3125"></polygon>
+                                        </g>
+                                        <g id="icons8-trash-can-15-copy-9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(547.500000, 191.000000)">
+                                            <path d="M6.5625,7.875 L6.5625,2.1875 L0.4375,2.1875 L0.4375,7.875 C0.4375,8.3584375 0.8290625,8.75 1.3125,8.75 L5.6875,8.75 C6.1709375,8.75 6.5625,8.3584375 6.5625,7.875 Z M0.4375,0.4375 L6.5625,0.4375 C6.804,0.4375 7,0.6335 7,0.875 L7,0.875 C7,1.1165 6.804,1.3125 6.5625,1.3125 L0.4375,1.3125 C0.196,1.3125 0,1.1165 0,0.875 L0,0.875 C0,0.6335 0.196,0.4375 0.4375,0.4375 Z" id="Shape" fill="#FF5D86" fill-rule="nonzero"></path>
+                                            <polygon id="Path" fill="#FF5D86" fill-rule="nonzero" points="5.6875 1.3125 4.375 0 2.625 0 1.3125 1.3125"></polygon>
+                                        </g>
+                                        <g id="icons8-trash-can-15-copy-10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(547.500000, 232.000000)">
+                                            <path d="M6.5625,7.875 L6.5625,2.1875 L0.4375,2.1875 L0.4375,7.875 C0.4375,8.3584375 0.8290625,8.75 1.3125,8.75 L5.6875,8.75 C6.1709375,8.75 6.5625,8.3584375 6.5625,7.875 Z M0.4375,0.4375 L6.5625,0.4375 C6.804,0.4375 7,0.6335 7,0.875 L7,0.875 C7,1.1165 6.804,1.3125 6.5625,1.3125 L0.4375,1.3125 C0.196,1.3125 0,1.1165 0,0.875 L0,0.875 C0,0.6335 0.196,0.4375 0.4375,0.4375 Z" id="Shape" fill="#FF5D86" fill-rule="nonzero"></path>
+                                            <polygon id="Path" fill="#FF5D86" fill-rule="nonzero" points="5.6875 1.3125 4.375 0 2.625 0 1.3125 1.3125"></polygon>
+                                        </g>
+                                        <text id="Type" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="212.5" y="128" fill="#FFFFFF">Type</tspan>
+                                        </text>
+                                        <text id="Keywords" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="273" y="128" fill="#FFFFFF">Keywords</tspan>
+                                        </text>
+                                        <text id="Input-Value" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="372" y="128" fill="#FFFFFF">Input Value</tspan>
+                                        </text>
+                                        <text id="Delay" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="490" y="128" fill="#FFFFFF">Delay</tspan>
+                                        </text>
+                                        <text id="Type" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="7" font-weight="500">
+                                            <tspan x="212.5" y="36.5" fill="#6E6893">Type</tspan>
+                                        </text>
+                                        <text id="Keywords" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="7" font-weight="500">
+                                            <tspan x="273" y="36.5" fill="#6E6893">Keywords</tspan>
+                                        </text>
+                                        <text id="Input-Value" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="7" font-weight="500">
+                                            <tspan x="372" y="36.5" fill="#6E6893">Input Value</tspan>
+                                        </text>
+                                        <text id="Delay-(ms)" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="7" font-weight="500">
+                                            <tspan x="490" y="36.5" fill="#6E6893">Delay (ms)</tspan>
+                                        </text>
+                                        <text id="Button" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="212.5" y="156.5" fill="#FFFFFF">Button</tspan>
+                                        </text>
+                                        <text id="Button-Copy" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="212.5" y="197.5" fill="#FFFFFF">Button</tspan>
+                                        </text>
+                                        <text id="Button-Copy-2" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="212.5" y="238.5" fill="#FFFFFF">Button</tspan>
+                                        </text>
+                                        <text id="+buy,+now" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="273" y="156.5" fill="#FFFFFF">+buy,+now</tspan>
+                                        </text>
+                                        <text id="+buy,+no" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="273" y="197.5" fill="#FFFFFF">+buy,+no</tspan>
+                                        </text>
+                                        <text id="+buy,+now-copy-2" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="273" y="238.5" fill="#FFFFFF">+buy,+now</tspan>
+                                        </text>
+                                        <text id="N/A" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="372" y="156.5" fill="#FFFFFF">N/A</tspan>
+                                        </text>
+                                        <text id="N/A-Copy" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="372" y="197.5" fill="#FFFFFF">N/A</tspan>
+                                        </text>
+                                        <text id="N/A-Copy-2" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="372" y="238.5" fill="#FFFFFF">N/A</tspan>
+                                        </text>
+                                        <text id="250" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="490" y="156.5" fill="#FFFFFF">250</tspan>
+                                        </text>
+                                        <text id="0" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="490" y="50" fill="#6E6893">0</tspan>
+                                        </text>
+                                        <text id="250-copy" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="490" y="197.5" fill="#FFFFFF">250</tspan>
+                                        </text>
+                                        <text id="250-copy-2" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="8" font-weight="500">
+                                            <tspan x="490" y="238.5" fill="#FFFFFF">250</tspan>
+                                        </text>
+                                        <rect id="Rectangle-Copy-2" stroke="#3C365E" stroke-width="0.5" fill="#1D1839" fill-rule="evenodd" x="89.25" y="44.25" width="117.5" height="20" rx="2.5"></rect>
+                                        <rect id="Rectangle-Copy-6" stroke="#3C365E" stroke-width="0.5" fill="#1D1839" fill-rule="evenodd" x="273.25" y="44.25" width="93" height="20" rx="2.5"></rect>
+                                        <rect id="Rectangle-Copy-9" stroke="#3C365E" stroke-width="0.5" fill="#1D1839" fill-rule="evenodd" x="372.25" y="44.25" width="112" height="20" rx="2.5"></rect>
+                                        <rect id="Rectangle-Copy-11" stroke="#3C365E" stroke-width="0.5" fill="#1D1839" fill-rule="evenodd" x="490.25" y="44.25" width="64" height="20" rx="2.5"></rect>
+                                        <rect id="Rectangle-Copy-5" stroke="#3C365E" stroke-width="0.5" fill="#1D1839" fill-rule="evenodd" x="212.75" y="44.25" width="54.5" height="20" rx="2.5"></rect>
+                                        <text id="Enter-keywords" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="6" font-weight="500">
+                                            <tspan x="283" y="56.5" fill="#6E6893">Enter keywords</tspan>
+                                        </text>
+                                        <text id="Enter-value" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="6" font-weight="500">
+                                            <tspan x="382" y="56.5" fill="#6E6893">Enter value</tspan>
+                                        </text>
+                                        <text id="Enter-delay" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="6" font-weight="500">
+                                            <tspan x="500" y="56.5" fill="#6E6893">Enter delay</tspan>
+                                        </text>
+                                        <text id="Button" stroke="none" fill="none" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="6" font-weight="500">
+                                            <tspan x="222.5" y="56.5" fill="#FFFFFF">Button</tspan>
+                                        </text>
+                                        <g id="arrow-down-2-copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(254.500000, 53.000000)" stroke-linecap="round" stroke-linejoin="round">
+                                            <polyline id="Path" stroke="#FFFFFF" stroke-width="0.75" points="5.25 0 2.625 2.625 0 0"></polyline>
+                                        </g>
+                                        <line x1="305.465436" y1="190.075312" x2="305.465436" y2="199.750983" id="Path-2" stroke="#FFFFFF" stroke-width="0.5" fill="none"></line>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-5" filter="url(#filter-8)" transform="translate(317.000000, 101.000000)">
+                        <rect id="Rectangle" fill="#262145" x="0" y="0" width="157" height="197" rx="4.5"></rect>
+                        <text id="Shopify" font-family="HurmeGeometricSans3-Bold, Hurme Geometric Sans 3" font-size="12" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="15" y="24">Shopify</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#FF5D86" x="15" y="38" width="128" height="41" rx="3.75"></rect>
+                        <rect id="Rectangle-Copy-3" fill="#302A52" x="15" y="90" width="128" height="41" rx="3.75"></rect>
+                        <rect id="Rectangle-Copy-4" fill="#302A52" x="15" y="142" width="128" height="41" rx="3.75"></rect>
+                        <text id="Autofill" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="12" font-weight="500" fill="#FFFFFF">
+                            <tspan x="59" y="62">Autofill</tspan>
+                        </text>
+                        <text id="Auto-Cart" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="12" font-weight="500" fill="#6E6893">
+                            <tspan x="50" y="114">Auto Cart</tspan>
+                        </text>
+                        <text id="Auto-Checkout" font-family="HurmeGeometricSans3-SemiBold, Hurme Geometric Sans 3" font-size="12" font-weight="500" fill="#6E6893">
+                            <tspan x="36" y="166">Auto Checkout</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
